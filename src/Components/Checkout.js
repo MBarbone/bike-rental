@@ -4,7 +4,7 @@ import "./Checkout.css";
 const Checkout = props => {
   return (
     <div className="eleven wide column">
-      <form className="ui form checkout-border">
+      <form id="checkout" className="ui form checkout-border">
         <h4 className="ui dividing header">Billing Information</h4>
         <div className="field">
           <label>Name</label>
