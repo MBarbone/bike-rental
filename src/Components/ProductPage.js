@@ -36,7 +36,7 @@ class ProductPage extends React.Component {
         showCheckout: false
       });
 
-      var checkout = document.getElementById("checkout");
+      const checkout = document.getElementById("checkout");
       checkout.scrollIntoView();
     }
 
