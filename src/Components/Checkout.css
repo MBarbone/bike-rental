@@ -1,0 +1,6 @@
+.checkout-border {
+  border: 2px solid lightgrey;
+  border-radius: 1px;
+  padding: 10px;
+  margin-bottom: 35px;
+}

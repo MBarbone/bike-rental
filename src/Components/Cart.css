@@ -1,0 +1,20 @@
+.cart-header {
+  background-color: red;
+  border-bottom: 2px solid black;
+}
+
+.fa-shopping-cart {
+  margin-left: 5px;
+}
+
+.cart-details {
+  margin-top: 10px;
+}
+
+.button-wrapper {
+  text-align: center;
+}
+
+.cart-buttons {
+  display: inline-block;
+}
