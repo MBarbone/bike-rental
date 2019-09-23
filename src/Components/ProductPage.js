@@ -35,9 +35,6 @@ class ProductPage extends React.Component {
       this.setState({
         showCheckout: false
       });
-
-      const checkout = document.getElementById("checkout");
-      checkout.scrollIntoView();
     }
 
     if (this.state.cart.find(product => product.product_type === "bike")) {

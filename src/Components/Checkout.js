@@ -2,9 +2,6 @@ import React from "react";
 import "./Checkout.css";
 
 class Checkout extends React.Component {
-  componentDidMount() {
-    window.scrollTo(0, 0);
-  }
   render() {
     return (
       <div className="eleven wide column">
