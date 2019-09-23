@@ -3,8 +3,7 @@ import "./Checkout.css";
 
 class Checkout extends React.Component {
   componentDidMount() {
-    const elmnt = document.getElementById("checkout");
-    elmnt.scrollIntoView();
+    window.scrollTo(0, 0);
   }
   render() {
     return (
