@@ -1,3 +1,7 @@
+.cart-container {
+  margin-bottom: 10px;
+}
+
 .cart-header {
   background-color: red;
   border-bottom: 2px solid black;

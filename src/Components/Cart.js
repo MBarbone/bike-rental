@@ -14,7 +14,7 @@ const Cart = props => {
   console.log(props);
   return (
     <div className="five wide column">
-      <div className="ui card">
+      <div className="ui card cart-container">
         <div className="content">
           <div className="header">
             Cart
